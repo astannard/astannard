@@ -9,9 +9,9 @@ My Outside prediction for the 22nd
 
 Lots of coverage has gone to predictions as to what will be the specs of the new iPads, well all know Mavericks will be launched but what else will happed?
 
-I predict the AppleTV will recieve a new controlled, and an App Store. 
+I predict the AppleTV will recieve a new bluetooth controller, and an App Store. 
 
-My Prediction is based on the fact that ios7 for the iPhone  recieved an API for third party controllers with buttons for game playing. I think that this market is very small and not one that would interest apple sufficiently if it wernt a trojan hourse for the apple tv games controller. This will allow for the creation of a ready made libary of games compatible with the apple TV to be created without telling all the developers 'Hey wer're making the Apple TV into a games console' and ruining the secret.
+My Prediction is based on the fact that ios7 for the iPhone recieved an API for third party controllers with buttons for game playing. I think that this market is very small and not one that would interest apple sufficiently if it wernt a trojan hourse for the apple tv games controller. This will allow for the creation of a ready made libary of games compatible with the apple TV to be created without telling all the developers 'Hey wer're making the Apple TV into a games console' and ruining the secret.
 
 The only reason at the moment I can see why games are not native on the apple tv is that the controller sucks.
 
