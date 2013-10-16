@@ -1,0 +1,32 @@
+---
+layout: default
+title: Andrew Stannard
+---
+
+<div id="home">
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+            <div id="wufoo-zpq2woq07k8o4m">
+Fill out my <a href="https://andystannard.wufoo.com/forms/zpq2woq07k8o4m">online form</a>.
+</div>
+<script type="text/javascript">var zpq2woq07k8o4m;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'andystannard', 
+'formHash':'zpq2woq07k8o4m', 
+'autoResize':true,
+'height':'557',
+'async':true,
+'header':'show', 
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { zpq2woq07k8o4m = new WufooForm();zpq2woq07k8o4m.initialize(options);zpq2woq07k8o4m.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>
