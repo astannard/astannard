@@ -34,6 +34,7 @@ h4{font-size: 1.4em;}
 h5{font-size: 1.2em;}
 h6{font-size: 1.1em;}
 p { margin: 1em 0; line-height: 1.42em; }
+li p{line-height: 0.9em}
 
 a         { color: #00a; }
 a:hover   { color: #000; }
