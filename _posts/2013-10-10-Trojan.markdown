@@ -13,7 +13,7 @@ I predict the AppleTV will recieve a new bluetooth controller, and an App Store.
 
 My Prediction is based on the fact that ios7 for the iPhone recieved an API for third party controllers with buttons for game playing. I think that this market is very small and not one that would interest apple sufficiently if it wernt a trojan hourse for the apple tv games controller. This will allow for the creation of a ready made libary of games compatible with the apple TV to be created without telling all the developers 'Hey wer're making the Apple TV into a games console' and ruining the secret.
 
-The only reason at the moment I can see why games are not native on the apple tv is that the controller sucks.
+The only reason at the moment I can see why games are not native on the apple tv is that the controller is not upto the task.
 
 The AppleTV uses the same processor and the same operating system (ios) as the iphone. It just has different inputs and outputs, it displays though a tv not a touch sensative screen, it is controlled by simple Infra red remote, not a touch screen. The apple tv already includes bluetooth support for keyboards so the only missing piece in the gaming puzzle is a games controller.
 
