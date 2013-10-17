@@ -5,36 +5,32 @@ date:   2013-10-10
 categories: apple
 ---
 
-My Outside prediction for the 22nd
 
-Lots of coverage has gone to predictions as to what will be the specs of the new iPads, well all know Mavericks will be launched but what else will happed?
+Lots of coverage has gone to predictions as to what will be the specs of the new iPads, well all know Mavericks will be launched but what else will happed? Here is me outside prediction for the 22nd:
 
 I predict the AppleTV will recieve a new bluetooth controller, and an App Store. 
 
-My Prediction is based on the fact that ios7 for the iPhone recieved an API for third party controllers with buttons for game playing. I think that this market is very small and not one that would interest apple sufficiently if it wernt a trojan hourse for the apple tv games controller. This will allow for the creation of a ready made libary of games compatible with the apple TV to be created without telling all the developers 'Hey wer're making the Apple TV into a games console' and ruining the secret.
+My Prediction is based on the fact that ios7 recieved an API for third party controllers with buttons for game control. The market for these peripherals is very small by Apple standards and not one that would interest apple sufficiently if it wern't a trojan hourse for the AppleTv games controller. This will allow for the creation of a ready made libary of games compatible with the AppleTv to be created without telling all the developers 'Hey wer're making the AppleTv into a games console' and ruining the secret.
 
-The only reason at the moment I can see why games are not native on the apple tv is that the controller is not upto the task.
+The AppleTv uses the same processor and the same operating system (ios) as the iphone. It just has different inputs and outputs, it displays though a tv not a touch sensative screen, it is controlled by simple Infra red remote, not a touch screen. The AppleTv already includes bluetooth support for keyboards so the only missing piece in the gaming puzzle is a games controller.
 
-The AppleTV uses the same processor and the same operating system (ios) as the iphone. It just has different inputs and outputs, it displays though a tv not a touch sensative screen, it is controlled by simple Infra red remote, not a touch screen. The apple tv already includes bluetooth support for keyboards so the only missing piece in the gaming puzzle is a games controller.
-
-The apple tv has slowly built up sales momentum though it is lagging far behind the phones and tablets, but this will push it from being a hobby to a gold mine. The micro console is a new and expanding market which has seen interest from Sony with the Vita TV, Nintendo with the Will Mini, Ouya the new kid on the block who opened up this new market. Apple could take control of this fledgling market and take it mainstream.
+The AppleTv has slowly built up sales momentum though it is lagging far behind the phones and tablets, but this will push it from being a hobby to a gold mine. The micro console is a new and expanding market which has seen interest from Sony with the Vita TV, Nintendo with the Will Mini, Ouya the new kid on the block who opened up this new market. Apple could take control of this fledgling market and take it mainstream.
 
 I think a new AppleTV 4 will be announced soon with the following specs:
 
-+ A7 chip, allowing for value scalling on the ARM processers used on the iPhone 5s and iPad 5 and mini 2(rumour has it)
-The latest apple chp will allow for advanced games to be played with some very good quality graphics
++ A7 chip, allowing for value scalling on the ARM processers used on the iPhone 5s and iPad 5 and mini 2(rumour has it) The latest Apple chip will allow for advanced games to be played with some very good quality graphics
 
-+ 1 gb RAM if its good enough for the 5s 1gb is good enough for the AppleTV
++ 1GB RAM the same as the iphone 5c and 5s
 
-+ 16gb storage, you should not need space for movies or music but to hold the graphically advance AAA games the storage will need to be doubled
++ 16gb storage, you should not need space for movies or music since these can be streamed but to hold the graphically advance AAA games the storage will need to be doubled from the present 8gb
 
 + A new bluetooth controller - an infra red remote is just not good enough for gaming and a new controller that meets the iphone peripheral controller spec will be required
 
-+ A new design - Apple seems to change its design every two gens, will they go down a coloured plastic route al-la iphone 5c or a sleek brushed aluminum look of the 5s?
++ A new design - Apple seems to change its design every two generations, will they go down a coloured plastic case like the 5c (probably) or the sleek brushed aluminum look of the iPhone 5s
 
 + Software - ios7 based interface complete with an app store 
 
-+ Price - up 50% to take into account increased cost of the controller and ram and and SSD 
++ Price - up 50% to take into account increased production costs of the new controller and higher spec components 
 
 + Siri voice control
 
