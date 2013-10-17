@@ -10,11 +10,11 @@ Lots of coverage has gone to predictions as to what will be the specs of the new
 
 I predict the AppleTV will recieve a new bluetooth controller, and an App Store. 
 
-My Prediction is based on the fact that ios7 recieved an API for third party controllers with buttons for game control. The market for these peripherals is very small by Apple standards and not one that would interest apple sufficiently if it wern't a trojan hourse for the AppleTv games controller. This will allow for the creation of a ready made libary of games compatible with the AppleTv to be created without telling all the developers 'Hey wer're making the AppleTv into a games console' and ruining the secret.
+My Prediction is based on the fact that ios7 recieved an API for third party controllers with buttons for game control. The market for these peripherals is very small by Apple standards and not one that would interest apple sufficiently if it wern't a trojan hourse for the AppleTV games controller. This will allow for the creation of a ready made libary of games compatible with the AppleTV to be created without telling all the developers 'Hey wer're making the AppleTV into a games console' and ruining the secret.
 
-The AppleTv uses the same processor and the same operating system (ios) as the iphone. It just has different inputs and outputs, it displays though a tv not a touch sensative screen, it is controlled by simple Infra red remote, not a touch screen. The AppleTv already includes bluetooth support for keyboards so the only missing piece in the gaming puzzle is a games controller.
+The AppleTV uses the same processor and the same operating system (ios) as the iphone. It just has different inputs and outputs, it displays though a tv not a touch sensative screen, it is controlled by simple Infra red remote, not a touch screen. The AppleTV already includes bluetooth support for keyboards so the only missing piece in the gaming puzzle is a games controller.
 
-The AppleTv has slowly built up sales momentum though it is lagging far behind the phones and tablets, but this will push it from being a hobby to a gold mine. The micro console is a new and expanding market which has seen interest from Sony with the Vita TV, Nintendo with the Will Mini, Ouya the new kid on the block who opened up this new market. Apple could take control of this fledgling market and take it mainstream.
+The AppleTV has slowly built up sales momentum though it is lagging far behind the phones and tablets, but this will push it from being a hobby to a gold mine. The micro console is a new and expanding market which has seen interest from Sony with the Vita TV, Nintendo with the Will Mini, Ouya the new kid on the block who opened up this new market. Apple could take control of this fledgling market and take it mainstream.
 
 I think a new AppleTV 4 will be announced soon with the following specs:
 
